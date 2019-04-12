@@ -23,7 +23,7 @@ apt-get install graphviz
 
 You can download the latest installer [here](https://graphviz.gitlab.io/_pages/Download/windows/graphviz-2.38.zip)
 
-Usually, for good working you need to add the path in **Environment Variables**.
+In case of troubles you need to add the path in **Environment Variables**.
 
 ```
 C:\Program Files (x86)\Graphviz2.38\bin
